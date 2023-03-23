@@ -1,4 +1,4 @@
-describe('template spec', () => {
+describe('Open Login', () => {
   it('passes', () => {
     cy.viewport(2400, 1280)
     cy.visit('https://www.webhallen.com/')
